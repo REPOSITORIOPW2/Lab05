@@ -86,3 +86,7 @@
 -   https://tutorial.djangogirls.org/es/django_models/
 -   https://pear.php.net/manual/en/standards.php
 -   https://docs.djangoproject.com/en/4.0/)
+-   https://www.youtube.com/watch?v=M4NIs4BM1dk
+-   https://pypi.org/
+-   https://pip.pypa.io/en/latest/user_guide/
+-   https://packaging.python.org/en/latest/tutorials/installing-packages/
