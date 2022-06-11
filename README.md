@@ -70,8 +70,9 @@
 ## II.	SOLUCIÓN DE CUESTIONARIO
 
 - ¿Cuál es un estándar de codificación para Python? Ejemplo: Para PHP en el proyecto Pear https://pear.php.net/manual/en/standards.php
-    * U estandar muy conocido para python es PEP8, que fue creado en 2001. Y es el manual de estilo que aborda los temas de cómo nombrar clases, funciones y variables. Además de como cubre todos los aspectos de estilos que pueden surgir mientras programamos, en consecuencia, el estándar completo es un poco extenso.
+    * Un estandar muy conocido para python es PEP8, que fue creado en 2001. Y es el manual de estilo que aborda los temas de cómo nombrar clases, funciones y variables. Además de como cubre todos los aspectos de estilos que pueden surgir mientras programamos, en consecuencia, el estándar completo es un poco extenso.
     * ![image](https://user-images.githubusercontent.com/64146055/173198788-16b69c0b-d7df-4b8f-b98d-0b5e3b228aa8.png)
+    * Por otro lado, esta PyPI, el cual es el repositorio de software oficial para aplicaciones de terceros en el lenguaje de programación Python. De esta manera, los desarrolladores de Python pretenden que sea un catálogo exhaustivo de todos los paquetes de Python escritos en código abierto.
  
 - ¿Qué diferencias existen entre EasyInstall, pip, y PyPM?
     * Pip resulta como alternativa de EasyInstall, ya que este último quedo en desuso.
@@ -134,6 +135,8 @@
     <td>Sí, a través de setup.cfg</td>
   </tr>
 </table>
+   * Por otro lado, PyPM, Administrador de paquetes de Python para Python 3, es similar a npm. Nos permite realizar tareas de localización, instalación, actualización y eliminación de paquetes de Python. Por otro lado, PyPM no es gratuito y solo se puede usar con la distribución ActivePython de ActiveState .
+   * 
 - En un proyecto Django que se debe ignorar para usar git. Vea: https://github.com/django/django/blob/main/.gitignore. ¿Qué otros tipos de archivos se deberían agregar a este archivo?
 - Utilice python manage.py shell para agregar objetos. ¿Qué archivos se modificaron al agregar más objetos?
 
@@ -141,7 +144,8 @@
 
 ## III.	CONCLUSIONES
 
-- En conclusión, 
+- En conclusión, Django es uno de los Frameworks de Python más populares, trayendo grandes beneficios a los desarrolladores. Así, a pesar de que recien empezamos a conocer este framework, ya resulta muy práctico su uso y comprensión.
+- 
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
 -   [https://www.w3schools.com/python/python_reference.asp
