@@ -135,7 +135,7 @@
     <td>Sí, a través de setup.cfg</td>
   </tr>
 </table>
-   * Por otro lado, PyPM, Administrador de paquetes de Python para Python 3, es similar a npm. Nos permite realizar tareas de localización, instalación, actualización y eliminación de paquetes de Python. Por otro lado, PyPM no es gratuito y solo se puede usar con la distribución ActivePython de ActiveState .
+    * Por otro lado, PyPM, Administrador de paquetes de Python para Python 3, es similar a npm. Nos permite realizar tareas de localización, instalación, actualización y eliminación de paquetes de Python. Por otro lado, PyPM no es gratuito y solo se puede usar con la distribución ActivePython de ActiveState .
    
 - En un proyecto Django que se debe ignorar para usar git. Vea: https://github.com/django/django/blob/main/.gitignore. ¿Qué otros tipos de archivos se deberían agregar a este archivo?
 - Utilice python manage.py shell para agregar objetos. ¿Qué archivos se modificaron al agregar más objetos?
