@@ -74,7 +74,11 @@
     * ![image](https://user-images.githubusercontent.com/64146055/173198788-16b69c0b-d7df-4b8f-b98d-0b5e3b228aa8.png)
  
 - ¿Qué diferencias existen entre EasyInstall, pip, y PyPM?
-    * 
+    * <th>
+                <span style="font-weight:bold;">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br />
+                <span style="font-weight:bold;">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</span><br />
+                <span style="font-weight:bold;">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</span>
+       </th>
 - En un proyecto Django que se debe ignorar para usar git. Vea: https://github.com/django/django/blob/main/.gitignore. ¿Qué otros tipos de archivos se deberían agregar a este archivo?
 - Utilice python manage.py shell para agregar objetos. ¿Qué archivos se modificaron al agregar más objetos?
 
