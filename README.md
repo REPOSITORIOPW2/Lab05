@@ -64,7 +64,9 @@
 -  Especificar paso a paso la creación del blog en su informe.
 -  Crear un video tutorial donde realice las operaciones CRUD (URL public reproducible online)
 -  Adjuntar URL del video en el informe.
+-  
    Video:
+   
         https://youtu.be/7hWELOk0Dp0
 
 #
