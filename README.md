@@ -85,7 +85,7 @@
 
 ## III.	CONCLUSIONES
 
-- En conclusión, 
+- En conclusión, utilizar Django es muy beneficioso debido a sus muntiples funciones y la facilidad que te da, ademas como plantilla e inicio para un proyecto es muy bueno
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
 -   [https://www.w3schools.com/python/python_reference.asp
