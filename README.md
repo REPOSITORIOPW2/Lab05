@@ -72,7 +72,14 @@
 - ¿Cuál es un estándar de codificación para Python? Ejemplo: Para PHP en el proyecto Pear https://pear.php.net/manual/en/standards.php
 - ¿Qué diferencias existen entre EasyInstall, pip, y PyPM?
 - En un proyecto Django que se debe ignorar para usar git. Vea: https://github.com/django/django/blob/main/.gitignore. ¿Qué otros tipos de archivos se deberían agregar a este archivo?
+    -todos los archivos generados por IDE, utilice
+    -información sensible o son autogeneradas por alguna herramienta: logs, archivos temporales, etc.
 - Utilice python manage.py shell para agregar objetos. ¿Qué archivos se modificaron al agregar más objetos?
+    
+    ![image](https://user-images.githubusercontent.com/91225726/173274252-f49c6061-9352-4aea-95a0-d3444696323a.png)
+    ![image](https://user-images.githubusercontent.com/91225726/173275242-81722a12-956e-46b8-be46-4986d129aaf9.png)
+    
+    -Se modifica el archivo dbsqllite3, al agregar un objeto con todos sus atributos con python manage.py shell es una forma de hacerlo directamente desde consola
 
 #
 
