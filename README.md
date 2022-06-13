@@ -65,6 +65,8 @@
 -  Crear un video tutorial donde realice las operaciones CRUD (URL public reproducible online)
 -  Adjuntar URL del video en el informe.
 
+  https://youtu.be/7hWELOk0Dp0
+
 #
     
 ## II.	SOLUCIÓN DE CUESTIONARIO
